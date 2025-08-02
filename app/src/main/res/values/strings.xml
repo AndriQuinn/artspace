@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Art Space</string>
+<!--    <string name="libra_author">Libra Sensei</string>-->
+<!--    <string name="cute_yuuka_title">I met yuuka outside the convenience store. Shes so cute isn\'t she</string>-->
+<!--    <string name="image_date">"7/15/2025"</string>-->
+<!--    <string name="shikikan_author">Bakunawa</string>-->
+<!--    <string name="cute_sora_title">Damn Sora kind of cute and hot at the same time isn\'t she</string>-->
+<!--    <string name="image_date2">"7/16/2025"</string>-->
+    <string name="selected_image_txt">Selected Image</string>
+    <string name="pick_an_image_txt">Pick an image</string>
+    <string name="photo_icon_txt">Photo icon</string>
+    <string name="about_the_picture_txt">About the picture</string>
+    <string name="post_txt">Post</string>
+    <string name="back_icon_txt">Back icon</string>
+    <string name="bakunawa_txt">Bakunawa</string>
+    <string name="photo_icon2_txt">Photo icon</string>
+    <string name="post_something_txt">Post something</string>
+</resources>
